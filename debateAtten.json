@@ -1,0 +1,1331 @@
+{
+    "00000" : {
+      "attendanceNum" : 7,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "11/7/2018" ],
+      "email" : "timothe.kasriel@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "00000",
+      "username" : "Timothy Kasriel"
+    },
+    "11111" : {
+      "attendanceNum" : 7,
+      "dates" : [ "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100023525@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "11111",
+      "username" : "Sasha Shvydun"
+    },
+    "18106" : {
+      "attendanceNum" : 6,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/26/2018", "10/17/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "josh.hejna@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18106",
+      "username" : "Josh Hejna"
+    },
+    "18314" : {
+      "attendanceNum" : 6,
+      "dates" : [ "8/29/2018", "9/5/2018", "10/10/2018", "10/17/2018", "10/31/2018", "11/7/2018" ],
+      "email" : "tamurasar@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18314",
+      "username" : "Tamur Asar"
+    },
+    "18339" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/24/2018" ],
+      "email" : "ashley.lcai@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18339",
+      "username" : "Ashley Cai"
+    },
+    "18411" : {
+      "attendanceNum" : 1,
+      "dates" : [ "8/29/2018" ],
+      "email" : "100018764@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "18411",
+      "username" : "Amber Gao"
+    },
+    "18420" : {
+      "attendanceNum" : 3,
+      "dates" : [ "8/29/2018", "9/19/2018", "10/17/2018" ],
+      "email" : "100019326@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "18420",
+      "username" : "Annemarie Foy"
+    },
+    "18421" : {
+      "attendanceNum" : 10,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "arf.smileyfaces@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "18421",
+      "username" : "Amber Fry"
+    },
+    "18454" : {
+      "attendanceNum" : 11,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/14/2018" ],
+      "email" : "sophiarhwang@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18454",
+      "username" : "Sophia Hwang"
+    },
+    "18463" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/22/2018", "8/29/2018", "9/5/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "Rlee29846@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "18463",
+      "username" : "Ryan Lee"
+    },
+    "18486" : {
+      "attendanceNum" : 7,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "emhkwan@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18486",
+      "username" : "Emma Kwan"
+    },
+    "18510" : {
+      "attendanceNum" : 2,
+      "dates" : [ "9/26/2018", "10/10/2018" ],
+      "email" : "valerie.ma.2001@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18510",
+      "username" : "Valerie Ma"
+    },
+    "18530" : {
+      "attendanceNum" : 8,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "11/14/2018", "11/7/2018", "10/17/2018" ],
+      "email" : "andrewmopro@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18530",
+      "username" : "Andrew Mo"
+    },
+    "18609" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "amirtadros01@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18609",
+      "username" : "Amir Tadros"
+    },
+    "18698" : {
+      "attendanceNum" : 3,
+      "dates" : [ "9/12/2018", "9/12/2018", "9/12/2018" ],
+      "email" : "nitinjan06@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "18698",
+      "username" : "Nitin Kumar"
+    },
+    "18749" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/27/2018" ],
+      "email" : "100022351@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "18749",
+      "username" : "Drew Huch"
+    },
+    "18870" : {
+      "attendanceNum" : 4,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "10/24/2018" ],
+      "email" : "100019761@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "18870",
+      "username" : "Evan Si"
+    },
+    "18881" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/26/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "geraug7@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "18881",
+      "username" : "Gage Rodriguez"
+    },
+    "18903" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/5/2018" ],
+      "email" : "davidjacksonpeters@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18903",
+      "username" : "David Peters"
+    },
+    "18916" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/22/2018", "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018" ],
+      "email" : "erikbzhang@yahoo.com",
+      "school" : "MVHS",
+      "schoolID" : "18916",
+      "username" : "Erik Zhang"
+    },
+    "18922" : {
+      "attendanceNum" : 1,
+      "dates" : [ null, "8/29/2018" ],
+      "email" : "100019901@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "18922",
+      "username" : "Kiran Das-Goel"
+    },
+    "18923" : {
+      "attendanceNum" : 7,
+      "dates" : [ "8/29/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100019971@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "18923",
+      "username" : "Jessica Aaron"
+    },
+    "18942" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/14/2018" ],
+      "email" : "supersinger106@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18942",
+      "username" : "hitha bollu "
+    },
+    "18951" : {
+      "attendanceNum" : 10,
+      "dates" : [ "9/12/2018", "8/29/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/14/2018" ],
+      "email" : "julia.chang2002@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18951",
+      "username" : "Julia Chang"
+    },
+    "18962" : {
+      "attendanceNum" : 5,
+      "dates" : [ "9/5/2018", "11/7/2018", "11/14/2018", "10/3/2018", "10/10/2018" ],
+      "email" : "parth.dhanotra@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18962",
+      "username" : "Parth Dhanotra"
+    },
+    "18963" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018" ],
+      "email" : "100020098@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "18963",
+      "username" : "Johanna Doyas"
+    },
+    "18965" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "alexandereckinger@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18965",
+      "username" : "Alexander Eckinger"
+    },
+    "18967" : {
+      "attendanceNum" : 1,
+      "dates" : [ "8/29/2018" ],
+      "email" : "100020107@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "18967",
+      "username" : "Kristen Fan"
+    },
+    "18989" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "sierrahoward427@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18989",
+      "username" : "Sierra Howard"
+    },
+    "18992" : {
+      "attendanceNum" : 1,
+      "dates" : [ "8/29/2018" ],
+      "email" : "nathan.huang99@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18992",
+      "username" : "Nathan Huang"
+    },
+    "18993" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/17/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "dennis2002h@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "18993",
+      "username" : "Dennis Huang"
+    },
+    "19015" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/26/2018", "10/10/2018", "10/3/2018", "10/17/2018", "11/7/2018" ],
+      "email" : "ilona.la@me.com",
+      "school" : "LAHS",
+      "schoolID" : "19015",
+      "username" : "Ilona Lahdesmeki"
+    },
+    "19022" : {
+      "attendanceNum" : 9,
+      "dates" : [ "9/5/2018", "9/12/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "joseph.a.ismael@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19022",
+      "username" : "Joey Ismael"
+    },
+    "19026" : {
+      "attendanceNum" : 7,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "10/17/2018", "10/17/2018", "10/31/2018", "11/14/2018" ],
+      "email" : "megancliu@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19026",
+      "username" : "Megan Liu"
+    },
+    "19030" : {
+      "attendanceNum" : 5,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/17/2018" ],
+      "email" : "mlarryti@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19030",
+      "username" : "Larry Ma"
+    },
+    "19037" : {
+      "attendanceNum" : 5,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/26/2018", "10/10/2018", "10/17/2018" ],
+      "email" : "trevormitchell139@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19037",
+      "username" : "Trevor Mitchell"
+    },
+    "19061" : {
+      "attendanceNum" : 1,
+      "dates" : [ "10/17/2018" ],
+      "email" : "100020266",
+      "school" : "LAHS",
+      "schoolID" : "19061",
+      "username" : "Mikko Salkola"
+    },
+    "19082" : {
+      "attendanceNum" : 11,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "amelie.sen@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "19082",
+      "username" : "Amelie Sen"
+    },
+    "19122" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018" ],
+      "email" : "100020347@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "19122",
+      "username" : "Alexandra (Lexi) Crilley"
+    },
+    "19123" : {
+      "attendanceNum" : 9,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "shannongould02@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "19123",
+      "username" : "Shannon Gould"
+    },
+    "19150" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018", "10/24/2018", "11/14/2018" ],
+      "email" : "luojiayan3@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19150",
+      "username" : "Jiayan Luo"
+    },
+    "19185" : {
+      "attendanceNum" : 7,
+      "dates" : [ "8/29/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100020455@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "19185",
+      "username" : "Cary Higgins"
+    },
+    "19291" : {
+      "attendanceNum" : 11,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "cameron.sagheb@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19291",
+      "username" : "Cameron Sagheb"
+    },
+    "19456" : {
+      "attendanceNum" : 3,
+      "dates" : [ "8/29/2018", "10/3/2018", "11/14/2018" ],
+      "email" : "benhinnant49@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19456",
+      "username" : "Benjamin Hinnant"
+    },
+    "19503" : {
+      "attendanceNum" : 2,
+      "dates" : [ "8/29/2018", "9/12/2018" ],
+      "email" : "jlongchin@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19503",
+      "username" : "Justin Ongchin "
+    },
+    "19515" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/12/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "reddy9amit@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19515",
+      "username" : "Amit Reddy"
+    },
+    "19519" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018" ],
+      "email" : "franklinyeruan@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19519",
+      "username" : "Franklin Ruan"
+    },
+    "19561" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/12/2018" ],
+      "email" : "100020861@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "19561",
+      "username" : "Colin Zhang"
+    },
+    "19955" : {
+      "attendanceNum" : 2,
+      "dates" : [ "8/29/2018", "10/3/2018" ],
+      "email" : "jentran2002@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "19955",
+      "username" : "jennifer"
+    },
+    "20065" : {
+      "attendanceNum" : 2,
+      "dates" : [ "8/29/2018", "9/12/2018" ],
+      "email" : "eiffelparis.h@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "20065",
+      "username" : "Paris Harrell"
+    },
+    "20075" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "ethan80808@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "20075",
+      "username" : "Ethan Huang"
+    },
+    "20126" : {
+      "attendanceNum" : 7,
+      "dates" : [ "8/29/2018", "9/19/2018", "9/26/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100021830@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "20126",
+      "username" : "Arjun Patrawala"
+    },
+    "20149" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/27/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100021853@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "20149",
+      "username" : "Nure Shamlov"
+    },
+    "20167" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100021871@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "20167",
+      "username" : "Janya Sundar"
+    },
+    "20177" : {
+      "attendanceNum" : 1,
+      "dates" : [ "8/29/2018" ],
+      "email" : "100021881@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "20177",
+      "username" : "Ken Vandeventer"
+    },
+    "20179" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018" ],
+      "email" : "1alexvillablanca@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "20179",
+      "username" : "Alex Villablanca"
+    },
+    "20294" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100021998@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "20294",
+      "username" : "Stephan Bannikoc"
+    },
+    "20358" : {
+      "attendanceNum" : 6,
+      "dates" : [ "8/29/2018", "9/12/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/14/2018" ],
+      "email" : "100022062@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "20358",
+      "username" : "Anirudh Kumar "
+    },
+    "20396" : {
+      "attendanceNum" : 7,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/19/2018", "10/3/2018", "10/10/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "MayaLBryan@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20396",
+      "username" : "Maya Bryan"
+    },
+    "20401" : {
+      "attendanceNum" : 5,
+      "dates" : [ "9/5/2018", "9/19/2018", "10/3/2018", "10/17/2018", "10/24/2018" ],
+      "email" : "100022222@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20401",
+      "username" : "Margaret Capetz"
+    },
+    "20408" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022229@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20408",
+      "username" : "Kelly Chang"
+    },
+    "20413" : {
+      "attendanceNum" : 9,
+      "dates" : [ "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018" ],
+      "email" : "10002234@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20413",
+      "username" : "Caroline Chang"
+    },
+    "20418" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/31/2018", "11/7/2018" ],
+      "email" : "vivekvc2021@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20418",
+      "username" : "Vivek Chudasama"
+    },
+    "20421" : {
+      "attendanceNum" : 5,
+      "dates" : [ "8/29/2018", "10/3/2018", "10/10/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100022242@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20421",
+      "username" : "Olivia Colace"
+    },
+    "20439" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/27/2018", "10/3/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022526@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20439",
+      "username" : "Jack Drogoli"
+    },
+    "20448" : {
+      "attendanceNum" : 13,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018", "8/22/2018", "10/10/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022269@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20448",
+      "username" : "Ben Falkenburg"
+    },
+    "20449" : {
+      "attendanceNum" : 3,
+      "dates" : [ "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022153@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "20449",
+      "username" : "Eric Wetzel"
+    },
+    "20453" : {
+      "attendanceNum" : 3,
+      "dates" : [ "8/29/2018", "10/10/2018", "10/17/2018" ],
+      "email" : "evanmf735@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20453",
+      "username" : "Evan Fine"
+    },
+    "20459" : {
+      "attendanceNum" : 1,
+      "dates" : [ "11/14/2018" ],
+      "email" : "100022280@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20459",
+      "username" : "Bailey Fu"
+    },
+    "20478" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/26/2018", "10/10/2018", "10/17/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022299@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20478",
+      "username" : "Abigail Hagan"
+    },
+    "20489" : {
+      "attendanceNum" : 13,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", null, "10/17/2018", null, "10/24/2018", "10/31/2018", "11/7/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022310@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "20489",
+      "username" : "Allison Hong"
+    },
+    "20502" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022323@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20502",
+      "username" : "Asha Jain"
+    },
+    "20510" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/5/2018" ],
+      "email" : "100022331@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20510",
+      "username" : "Shreya Juneja"
+    },
+    "20511" : {
+      "attendanceNum" : 5,
+      "dates" : [ "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018" ],
+      "email" : "100022332@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20511",
+      "username" : "Sam Kao"
+    },
+    "20530" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/26/2018", "10/24/2018", "10/17/2018", "10/10/2018", "10/5/2018", "11/7/2018" ],
+      "email" : "100022351@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20530",
+      "username" : "Parisa Larson"
+    },
+    "20532" : {
+      "attendanceNum" : 3,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/26/2018" ],
+      "email" : "100022353@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20532",
+      "username" : "Amanda Le"
+    },
+    "20547" : {
+      "attendanceNum" : 4,
+      "dates" : [ "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018" ],
+      "email" : "jeremy0313@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20547",
+      "username" : "Jeremy Lin"
+    },
+    "20576" : {
+      "attendanceNum" : 2,
+      "dates" : [ "8/29/2018", "10/3/2018" ],
+      "email" : "justinmeiseles@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20576",
+      "username" : "Justin Meiseles"
+    },
+    "20586" : {
+      "attendanceNum" : 9,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/31/2018", "11/7/2018" ],
+      "email" : "mihir.mirchandani@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20586",
+      "username" : "Mihir Mirchandani"
+    },
+    "20624" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "11/7/2018", "11/14/2018", "11/14/2018" ],
+      "email" : "100022445@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20624",
+      "username" : "Sahana Ram"
+    },
+    "20626" : {
+      "attendanceNum" : 4,
+      "dates" : [ "10/3/2018", "9/19/2018", "8/29/2018", "9/26/18", "10/10/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100022447@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20626",
+      "username" : "Kavya Ramamurty"
+    },
+    "20665" : {
+      "attendanceNum" : 11,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018" ],
+      "email" : "100022486@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20665",
+      "username" : "Henry Shi"
+    },
+    "20668" : {
+      "attendanceNum" : 2,
+      "dates" : [ "9/5/2018", "11/7/2018" ],
+      "email" : "100022489@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20668",
+      "username" : "Navya Singhai"
+    },
+    "20697" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022518@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20697",
+      "username" : "natalie tran"
+    },
+    "20701" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "11/7/2018" ],
+      "email" : "sankethv03@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20701",
+      "username" : "Sanketh Varamballi"
+    },
+    "20717" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100022538@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20717",
+      "username" : "Alisha Xiong"
+    },
+    "20718" : {
+      "attendanceNum" : 1,
+      "dates" : [ "8/29/2018" ],
+      "email" : "ethanyisaperson@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20718",
+      "username" : "Ethan Yang"
+    },
+    "20757" : {
+      "attendanceNum" : 11,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/14/2018" ],
+      "email" : "g4merant@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20757",
+      "username" : "Anthony Jin"
+    },
+    "20785" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/5/2018" ],
+      "email" : "chugh.ashwin@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20785",
+      "username" : "Ashwin Chugh"
+    },
+    "20794" : {
+      "attendanceNum" : 6,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/26/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100022615@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20794",
+      "username" : "Juliette Sartori"
+    },
+    "20806" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/5/2018" ],
+      "email" : "100022627@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20806",
+      "username" : "Akanshya Bhat"
+    },
+    "20846" : {
+      "attendanceNum" : 2,
+      "dates" : [ "8/29/2018", "9/5/2018" ],
+      "email" : "leighannelemoine@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "20846",
+      "username" : "Leigh Anne Lemoine"
+    },
+    "20898" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022927@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "20898",
+      "username" : "Avi Gerber"
+    },
+    "20945" : {
+      "attendanceNum" : 2,
+      "dates" : [ "8/29/2018", "9/5/2018" ],
+      "email" : "michaelchompchomp@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "20945",
+      "username" : "Daniel Ni"
+    },
+    "20979" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022829@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "20979",
+      "username" : "Angelina Lue"
+    },
+    "21023" : {
+      "attendanceNum" : 2,
+      "dates" : [ "11/7/2018", "11/14/2018" ],
+      "email" : "rebekka.kabel@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21023",
+      "username" : "Rebekka Kabel"
+    },
+    "21027" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022879@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21027",
+      "username" : "Bill Shao"
+    },
+    "21048" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022900@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21048",
+      "username" : "Kathrina Welborn"
+    },
+    "21104" : {
+      "attendanceNum" : 5,
+      "dates" : [ "8/29/2018", "9/19/2018", "10/10/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100022976@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21104",
+      "username" : "Yuting Shi"
+    },
+    "21105" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100022977@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21105",
+      "username" : "Stella Huang"
+    },
+    "21157" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "fluffatron360@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "21157",
+      "username" : "Archer Date"
+    },
+    "21167" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/26/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "aditidixxit@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21167",
+      "username" : "Aditi Dixit"
+    },
+    "21169" : {
+      "attendanceNum" : 1,
+      "dates" : [ "10/17/2018" ],
+      "email" : "mackatfry@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "21169",
+      "username" : "Mackenzie Fry"
+    },
+    "21172" : {
+      "attendanceNum" : 8,
+      "dates" : [ "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023647@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21172",
+      "username" : "Jessica Gao"
+    },
+    "21175" : {
+      "attendanceNum" : 7,
+      "dates" : [ "10/17/2018", "8/22/2018", "8/29/2018", "9/5/2018", "9/19/2018", "10/3/2018", "10/10/2018" ],
+      "email" : "100023083@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21175",
+      "username" : "Ruixuan Zhang"
+    },
+    "21183" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/27/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023097@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21183",
+      "username" : "Cedric Chan"
+    },
+    "21191" : {
+      "attendanceNum" : 2,
+      "dates" : [ "10/17/2018", "10/24/2018" ],
+      "email" : "100023666@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21191",
+      "username" : "Elizabeth Hiebert"
+    },
+    "21213" : {
+      "attendanceNum" : 5,
+      "dates" : [ "8/29/2018", "9/12/2018", "10/10/2018", "10/17/2018", "10/24/2018" ],
+      "email" : "100023104@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21213",
+      "username" : "Rebecca Pan"
+    },
+    "21239" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "evanmow2@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "21239",
+      "username" : "Evan Mow"
+    },
+    "21246" : {
+      "attendanceNum" : 2,
+      "dates" : [ "9/27/2018", "10/3/2018" ],
+      "email" : "100018527@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21246",
+      "username" : "Toby Fuchs"
+    },
+    "21281" : {
+      "attendanceNum" : 4,
+      "dates" : [ "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023756@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21281",
+      "username" : "Carolyn Smith"
+    },
+    "21298" : {
+      "attendanceNum" : 10,
+      "dates" : [ "9/19/2018", "8/29/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "lilz_a@live.com",
+      "school" : "LAHS",
+      "schoolID" : "21298",
+      "username" : "Lily Aronovitz"
+    },
+    "21304" : {
+      "attendanceNum" : 4,
+      "dates" : [ "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018" ],
+      "email" : "trinitybang@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21304",
+      "username" : "Trinity Bang"
+    },
+    "21313" : {
+      "attendanceNum" : 10,
+      "dates" : [ "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023788@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21313",
+      "username" : "Sebastian Woo"
+    },
+    "21319" : {
+      "attendanceNum" : 11,
+      "dates" : [ "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023794@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21319",
+      "username" : "Connor Yee"
+    },
+    "21344" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "rcolgrove45@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21344",
+      "username" : "Richard Colgrove"
+    },
+    "21381" : {
+      "attendanceNum" : 7,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018", "10/24/2018" ],
+      "email" : "100023891@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21381",
+      "username" : "Jackson Cummings"
+    },
+    "21400" : {
+      "attendanceNum" : 1,
+      "dates" : [ "8/29/2018" ],
+      "email" : "bgracon2975@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21400",
+      "username" : "bryce gracon"
+    },
+    "21467" : {
+      "attendanceNum" : 1,
+      "dates" : [ "8/29/2018" ],
+      "email" : "100024049@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21467",
+      "username" : "Emmanuel Leblond"
+    },
+    "21518" : {
+      "attendanceNum" : 4,
+      "dates" : [ "10/3/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023486@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21518",
+      "username" : "Caroline Ongchin"
+    },
+    "21521" : {
+      "attendanceNum" : 5,
+      "dates" : [ "10/3/2018", "10/10/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "eesha.palasamudrum@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21521",
+      "username" : "Eesha Palasamudrum"
+    },
+    "21523" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/19/2018", "9/26/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "tarande57@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21523",
+      "username" : "Tara Pande"
+    },
+    "21529" : {
+      "attendanceNum" : 5,
+      "dates" : [ "10/3/2018", "10/10/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023497@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21529",
+      "username" : "Ethan Peng"
+    },
+    "21535" : {
+      "attendanceNum" : 10,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "annie.ping09@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21535",
+      "username" : "Annie Ping"
+    },
+    "21554" : {
+      "attendanceNum" : 2,
+      "dates" : [ "9/19/2018", "8/29/2018", "9/12/2018", "10/31/2018" ],
+      "email" : "100023522@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21554",
+      "username" : "Aman Shah"
+    },
+    "21558" : {
+      "attendanceNum" : 3,
+      "dates" : [ "9/27/2018", "10/10/2018", "10/17/2018" ],
+      "email" : "100024213@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21558",
+      "username" : "Arthur Wong"
+    },
+    "21566" : {
+      "attendanceNum" : 9,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "katy@stadfam.net",
+      "school" : "LAHS",
+      "schoolID" : "21566",
+      "username" : "Kate Stadler"
+    },
+    "21575" : {
+      "attendanceNum" : 5,
+      "dates" : [ "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023543@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21575",
+      "username" : "Karina Tan"
+    },
+    "21583" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "Kiefer.Tierling@Gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21583",
+      "username" : "Kiefer Tierling"
+    },
+    "21590" : {
+      "attendanceNum" : 7,
+      "dates" : [ "8/29/2018", "9/26/2018", "9/12/2018", "10/10/2018", "10/17/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100024257@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21590",
+      "username" : "Aidan Thurber"
+    },
+    "21601" : {
+      "attendanceNum" : 10,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100024272@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21601",
+      "username" : "Sara Twiggs"
+    },
+    "21747" : {
+      "attendanceNum" : 3,
+      "dates" : [ "9/27/2018", "10/10/2018", "10/17/2018" ],
+      "email" : "100024069@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21747",
+      "username" : "Fehi Lotoqhiu"
+    },
+    "21853" : {
+      "attendanceNum" : 5,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/10/2018" ],
+      "email" : "100024333@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "21853",
+      "username" : "Alice Liu"
+    },
+    "21895" : {
+      "attendanceNum" : 9,
+      "dates" : [ "8/29/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "11/7/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "sashashkolnikov@yahoo.com",
+      "school" : "LAHS",
+      "schoolID" : "21895",
+      "username" : "Sasha Shkolnikov"
+    },
+    "21925" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100021925@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21925",
+      "username" : "Kai Tinkess"
+    },
+    "21941" : {
+      "attendanceNum" : 5,
+      "dates" : [ "9/12/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018" ],
+      "email" : "100024495@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "21941",
+      "username" : "Saahil Sundaresan"
+    },
+    "21944" : {
+      "attendanceNum" : 8,
+      "dates" : [ "8/29/2018", "9/19/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "sonavagarwal@gmail.com",
+      "school" : "MVHS",
+      "schoolID" : "21944",
+      "username" : "Sonav Agarwal"
+    },
+    "21990" : {
+      "attendanceNum" : 1,
+      "dates" : [ "10/10/2018" ],
+      "email" : "mica.e.horton@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "21990",
+      "username" : "Mica Horton"
+    },
+    "22222" : {
+      "attendanceNum" : 2,
+      "dates" : [ "11/7/2018", "11/14/2018" ],
+      "email" : "100024098@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "22222",
+      "username" : "Aaron Mathias"
+    },
+    "22526" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/27/2018" ],
+      "email" : "100022526@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "22526",
+      "username" : "Winston Wang"
+    },
+    "23624" : {
+      "attendanceNum" : 7,
+      "dates" : [ "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023624@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "23624",
+      "username" : "Ishaan Chhobra"
+    },
+    "24676" : {
+      "attendanceNum" : 2,
+      "dates" : [ "8/29/2018", "9/19/2018" ],
+      "email" : "abovedemcubes@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "24676",
+      "username" : "Devon Chouhan"
+    },
+    "24690" : {
+      "attendanceNum" : 5,
+      "dates" : [ "8/29/2018", "9/5/2018", "9/26/2018", "10/3/2018", "11/14/2018" ],
+      "email" : "100024690@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "24690",
+      "username" : "Nour Taha"
+    },
+    "100021203" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/12/2018", "9/19/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018" ],
+      "email" : "100021203@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100021203",
+      "username" : "Marvin Lin"
+    },
+    "100023083" : {
+      "attendanceNum" : 7,
+      "dates" : [ "9/27/2018", "10/10/2018", "10/10/2018", "10/17/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023083@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "100023102",
+      "username" : "Akshat Rama"
+    },
+    "100023287" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/19/2018" ],
+      "email" : "100023287@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100023287",
+      "username" : "Kaavya"
+    },
+    "100023290" : {
+      "attendanceNum" : 9,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023290@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100023290",
+      "username" : "Gavin Byard Cartier"
+    },
+    "100023374" : {
+      "attendanceNum" : 10,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "oliviahewang@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "100023374",
+      "username" : "Olivia Hewang"
+    },
+    "100023390" : {
+      "attendanceNum" : 5,
+      "dates" : [ "9/19/2018", "10/10/2018", "10/17/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "omahaibra@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "100023390",
+      "username" : "Omar Ibrahim"
+    },
+    "100023433" : {
+      "attendanceNum" : 9,
+      "dates" : [ "9/5/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018" ],
+      "email" : "liuyiwei1202@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "100023433",
+      "username" : "Rose Liu"
+    },
+    "100023457" : {
+      "attendanceNum" : 1,
+      "dates" : [ "11/14/2018" ],
+      "email" : "100023457@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100023457",
+      "username" : "Anand Mehta"
+    },
+    "100023487" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/31/2018" ],
+      "email" : "100023487@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100023487",
+      "username" : "Nadia Pai"
+    },
+    "100023507" : {
+      "attendanceNum" : 9,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/26/2018", "10/3/2018", "10/10/2018", "10/17/2018", "10/24/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "liviepye00123@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "100023507",
+      "username" : "Olivia Pye"
+    },
+    "100023526" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/5/2018" ],
+      "email" : "vaishusirkay@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "100023526",
+      "username" : "Vaishu Sirkay"
+    },
+    "100023538" : {
+      "attendanceNum" : 1,
+      "dates" : [ "11/14/2018" ],
+      "email" : "100023538@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100023538",
+      "username" : "Kai Stout"
+    },
+    "100023550" : {
+      "attendanceNum" : 1,
+      "dates" : [ "11/14/2018" ],
+      "email" : "100023550@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100023550",
+      "username" : "Ayush Thirumala"
+    },
+    "100023560" : {
+      "attendanceNum" : 6,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/10/2018" ],
+      "email" : "sydney.tung@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "100023560",
+      "username" : "Sydney Tung"
+    },
+    "100023581" : {
+      "attendanceNum" : 2,
+      "dates" : [ "9/12/2018", "10/31/2018" ],
+      "email" : "100023581@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100023581",
+      "username" : "Olivia Wang"
+    },
+    "100023585" : {
+      "attendanceNum" : 2,
+      "dates" : [ "9/12/2018", "10/31/2018" ],
+      "email" : "100023585@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100023585",
+      "username" : "Natalie Wei"
+    },
+    "100023599" : {
+      "attendanceNum" : 10,
+      "dates" : [ "8/29/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018", "10/24/2018", "10/31/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "arthuracct@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "100023599",
+      "username" : "Arthur Zhou"
+    },
+    "100023992" : {
+      "attendanceNum" : 7,
+      "dates" : [ "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018", "11/7/2018", "11/14/2018" ],
+      "email" : "100023992@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100023992",
+      "username" : "Sophie Han"
+    },
+    "100024253" : {
+      "attendanceNum" : 1,
+      "dates" : [ "9/12/2018" ],
+      "email" : "100024253@mvla.net",
+      "school" : "MVHS",
+      "schoolID" : "100024253",
+      "username" : "Leo Testi"
+    },
+    "100024410" : {
+      "attendanceNum" : 7,
+      "dates" : [ "9/5/2018", "9/12/2018", "9/19/2018", "9/26/2018", "10/3/2018", "10/17/2018", "10/24/2018" ],
+      "email" : "100024410@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100024410",
+      "username" : "Stanislav Zapalikov"
+    },
+    "100024596" : {
+      "attendanceNum" : 2,
+      "dates" : [ "9/19/2018", "10/24/2018" ],
+      "email" : "100024596@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100024596",
+      "username" : "Kevin Lo"
+    },
+    "100029833" : {
+      "attendanceNum" : 3,
+      "dates" : [ "9/27/2018", "10/3/2018", "10/24/2018" ],
+      "email" : "100029833@mvla.net",
+      "school" : "LAHS",
+      "schoolID" : "100029833",
+      "username" : "Nikhita Boddu"
+    },
+    "200021269" : {
+      "attendanceNum" : 1,
+      "dates" : [ "8/29/2018" ],
+      "email" : "jentran2002@gmail.com",
+      "school" : "LAHS",
+      "schoolID" : "200021269",
+      "username" : "jentran2002@gmail.com"
+    }
+ 
+}
